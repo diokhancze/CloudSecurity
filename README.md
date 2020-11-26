@@ -8,7 +8,7 @@ Topics covered: AWS, Azure,
 Tools made for security auditing
 | Name/Link| Description |
 | ---------- | :---------- |
-| **ScoutSuite** [https://github.com/nccgroup/ScoutSuite]| (https://github.com/nccgroup/ScoutSuite) | Multi-Cloud Security auditing tool for AWS Google Cloud and Azure environments (python) |
+| **ScoutSuite** [https://github.com/nccgroup/ScoutSuite]| | Multi-Cloud Security auditing tool for AWS Google Cloud and Azure environments (python) |
 
 
 ## Offensive
