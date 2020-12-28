@@ -8,9 +8,11 @@ Topics covered: AWS, Azure, Kubernetes
 Tools made for security auditing, configuration review, white box penetration testing or inventory creation.
 | Name / Link| Description | Tags |
 | ---------- | ---------- | ---------- |
-| [ScoutSuite](https://github.com/nccgroup/ScoutSuite) | Multi-Cloud Security auditing tool for AWS, Google Cloud and Azure environments | AWS, GCP, Azure |
-| [KubiScan](https://github.com/diokhancze/KubiScan) | CyberArk tool to scan Kubernetes cluster for risky permissions | Kubernetes |
+| [ScoutSuite](https://github.com/nccgroup/ScoutSuite) | Multi-Cloud Security auditing tool for AWS, Google Cloud and Azure environments. | AWS, GCP, Azure |
+| [KubiScan](https://github.com/diokhancze/KubiScan) | CyberArk tool to scan Kubernetes cluster for risky permissions. | Kubernetes |
 | [ExportAWSUsers](https://github.com/diokhancze/ExportAWSUsers) | Python script to export AWS IAM Users on the account. It will also get creation dates, last login dates, and any API keys associated with the account. | AWS |
+| [PowerZure](https://github.com/diokhancze/PowerZure) | PowerShell framework that can both perform reconnaissance and exploitation of Azure, AzureAD, and the associated resources.  | Azure |
+| [Cloudsploit](https://github.com/diokhancze/cloudsploit) | Open-source project to audit Security Cloud Implementations - AWS, Google Cloud and Azure environments. | AWS, GCP, Azure |
 
 
 
