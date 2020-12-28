@@ -9,6 +9,8 @@ Tools made for security auditing, configuration review, white box penetration te
 | Name / Link| Description | Tags |
 | ---------- | ---------- | ---------- |
 | [ScoutSuite](https://github.com/nccgroup/ScoutSuite) | Multi-Cloud Security auditing tool for AWS, Google Cloud and Azure environments | AWS, GCP, Azure |
+| [KubiScan](https://github.com/diokhancze/KubiScan) | CyberArk tool to scan Kubernetes cluster for risky permissions | Kubernetes |
+
 
 
 ## Offensive
