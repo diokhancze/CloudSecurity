@@ -18,11 +18,9 @@ Tools made for security auditing, configuration review, white box penetration te
 | [Trivy](https://github.com/diokhancze/trivy) | Simple and comprehensive vulnerability scanner for containers and other artifacts. Automatic solution for the continous intergration. | Container, CI |
 | [Aws-cli](https://github.com/diokhancze/aws-cli) | Python-based unified command line interface to Amazon Web Services. | AWS |
 | [Kube-bench](https://github.com/diokhancze/kube-bench) | Go application that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark. | Kubernetes |
-| [ScoutSuite](https://github.com/diokhancze/ScoutSuite) | Open-source project to audit Security Cloud Implementations - AWS, Google Cloud and Azure environments. | AWS, Azure, GCP |
-| [ScoutSuite](https://github.com/diokhancze/ScoutSuite) | Open-source project to audit Security Cloud Implementations - AWS, Google Cloud and Azure environments. | AWS, Azure, GCP |
-
-
-
+| [PayloadsAllTheThings](https://github.com/diokhancze/PayloadsAllTheThings) | One of the best Github projects, covering a lot of security ideas, payloads, methodologies and resources. | AWS, Azure, Docker |
+| [Policy Sentry](https://github.com/diokhancze/policy_sentry) | IAM Least Privilege Policy Generator. Allows users to create least-privilege IAM policies in a matter of seconds, rather than tediously writing IAM policies by hand. These policies are scoped down according to access levels and resources. | AWS, Terraform |
+<MORE TO BE ADDED LATER>
 
 
 
