@@ -36,7 +36,7 @@ Tools made for security auditing, configuration review, white box penetration te
 | [CloudSploit Security Remediation Guides](https://github.com/diokhancze/cloud-security-remediation-guides) | CloudSploit extension, providing detailed guides for issues remedation. | AWS, Azure, Github, Oracle |
 | [Altdns](https://github.com/diokhancze/altdns) | DNS recon tool that allows for the discovery of subdomains that conform to patterns. | Subdomain |
 | [AWSViewPerl](https://github.com/diokhancze/aws-view-perl) | Simple Perl command line tool to gather information about AWS services. | AWS |
-
+| [Axiom](https://github.com/diokhancze/axiom) | Dynamic infrastructure framework - quickly deploys pre-defined machines and performs a distributed nmap/ffuf/screenshotting scan, and then shut them down again. Alternative to Terraform. | Azure, GCP, DO, IBM, Terraform |
 
 ## Offensive
 Description
